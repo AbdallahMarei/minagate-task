@@ -1,0 +1,20 @@
+.users-row{
+    padding: 1.5rem;
+    font-size: 1.5rem;
+}
+.users-container{
+    margin-top: 1rem;
+    background-color: #f3f3f3;
+    box-shadow: 5px 5px 5px;
+    border-radius: 5px;
+    
+}
+.users{
+    padding: 0.8rem;
+    cursor: pointer;
+    
+}
+.user-container{
+    height: 50vh;
+    overflow-y: scroll;
+}
